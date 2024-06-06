@@ -1,1 +1,1 @@
-# Impact-of-Inpainting-Techniques-on-Posidonia-Segmentation
+# Inpainting-Techniques-on-Maritime-Images
